@@ -1,0 +1,144 @@
+{
+    "ongs": [
+      {
+      "nome": "Instituto Alana",
+      "descricao": "Defesa dos direitos da criança e do adolescente, com foco em áreas como saúde, educação, desenvolvimento digital e meio ambiente.",
+      "local": "Nacional",
+      "logo": "https://www.ashoka.org/sites/default/files/styles/medium_1600x1000_no_crop/public/logo_alana.png?itok=h51B7Rmq",
+      "site": "https://www.alana.org.br"
+      },
+      {
+      "nome": "WWF-Brasil",
+      "descricao": "Conservação da natureza e da biodiversidade, com foco em áreas como florestas, água doce e oceanos.",
+      "local": "Nacional",
+      "logo": "https://cdnassets.panda.org/_skins/international/img/logo.png",
+      "site": "https://www.wwf.org.br/"
+      },
+      {
+      "nome": "Instituto Socioambiental (ISA)",
+      "descricao": "Promoção da justiça social e ambiental, com foco em áreas como terras indígenas, florestas e direitos humanos.",
+      "local": "Nacional",
+      "logo": "https://filiacao.socioambiental.org/images/bg/isa.png",
+      "site": "https://www.socioambiental.org/"
+      },
+      {
+      "nome": "Oxfam Brasil",
+      "descricao": "Combate à pobreza e à desigualdade, com foco em áreas como agricultura familiar, direitos humanos e justiça social.",
+      "local": "Nacional",
+      "logo": "https://www.oxfam.org.br/wp-content/themes/oxfam/assets/img/oxfam_10_anos.png",
+      "site": "https://www.oxfam.org.br/"
+      },
+      {
+      "nome": "Greenpeace Brasil",
+      "descricao": "Defesa do meio ambiente, com foco em áreas como desmatamento, poluição e mudanças climáticas.",
+      "local": "Nacional",
+      "logo": "https://www.greenpeace.org/brasil/wp-content/themes/planet4-master-theme/images/gp-logo.svg",
+      "site": "https://www.greenpeace.org/brasil/"
+      },
+      {
+      "nome": "Instituto Ethos",
+      "descricao": "Promoção da responsabilidade social empresarial, com foco em áreas como direitos humanos, meio ambiente e governança.",
+      "local": "Nacional",
+      "logo": "https://www3.ethos.org.br/wp-content/uploads/2016/12/ethos-logo.jpg",
+      "site": "https://www.ethos.org.br/"
+      },
+      {
+      "nome": "Instituto Criança e Natureza (ICN)",
+      "descricao": "Promoção da educação ambiental para crianças e jovens, com foco em áreas como conservação da biodiversidade e sustentabilidade.",
+      "local": "Nacional",
+      "logo": "https://criancaenatureza.org.br/wp-content/uploads/2016/01/logo-cen.png",
+      "site": "http://www.criancaenatureza.org.br/"
+      },
+      {
+      "nome": "Projeto TAMAR",
+      "descricao": "Conservação das tartarugas marinhas, com foco em áreas como pesquisa, proteção e educação ambiental.",
+      "local": "Litoral brasileiro",
+      "logo": "https://www.tamar.org.br/imagens/logo_tamar.jpg",
+      "site": "https://www.tamar.org.br/"
+      },
+      {
+      "nome": "Instituto Pró-Carnívoros (IPC)",
+      "descricao": "Conservação de animais carnívoros ameaçados de extinção, com foco em áreas como pesquisa, proteção e educação ambiental.",
+      "local": "Nacional",
+      "logo": "https://procarnivoros.org.br/wp-content/uploads/2020/04/logo-pro-carnivoros.svg",
+      "site": "https://www.procarnivoros.org.br/"
+      },
+      {
+      "nome": "Instituto Arara Azul",
+      "descricao": "Conservação da arara-azul-grande, com foco em áreas como pesquisa, proteção e educação ambiental.",
+      "local": "Centro-Oeste do Brasil",
+      "logo": "https://scontent.fplu19-1.fna.fbcdn.net/v/t39.30808-6/308483612_456482573178747_2776432537730387182_n.png?_nc_cat=105&ccb=1-7&_nc_sid=5f2048&_nc_ohc=e6vYn6Asvr0Q7kNvgEWpTFb&_nc_ht=scontent.fplu19-1.fna&oh=00_AYAl6O2ESPHKIeiT-fUlcwrdfRVmmQyZlGtbx_gp4uHsMg&oe=66528354",
+      "site": "https://www.institutoararaazul.org.br"
+      },
+      {
+      "nome": "Projeto Baleia Jubarte",
+      "descricao": "Conservação da baleia-jubarte, com foco em áreas como pesquisa, proteção e educação ambiental.",
+      "local": "Litoral brasileiro",
+      "logo": "https://yt3.googleusercontent.com/ytc/AIdro_lJ-z8wPe5FtcMdNICuEw68QrryPXbx5n05dOb1u5ZWiUU=s900-c-k-c0x00ffffff-no-rj",
+      "site": "https://www.baleiajubarte.org.br/"
+      },
+      {
+      "nome": "Instituto Boitatá",
+      "descricao": "Conservação da fauna e da flora do Pantanal, com foco em áreas como pesquisa, proteção e educação ambiental.",
+      "local": "Pantanal",
+      "logo": "https://static.wixstatic.com/media/ee2c8d_f39543b9c944497695d903f31b36ea8f~mv2.png/v1/fill/w_240,h_224,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/IBEC-LogoCompleto-Preto_Vermelho_comtextura.png",
+      "site": "https://www.institutoboitata.org"
+      },
+      {
+      "nome": "Instituto Chico Mendes de Conservação da Biodiversidade (ICMBio)",
+      "descricao": "Gestão de unidades de conservação e proteção da biodiversidade, com foco em áreas como pesquisa, monitoramento e fiscalização.",
+      "local": "Nacional",
+      "logo": "https://cbic.org.br/wp-content/uploads/2018/01/er1.jpg",
+      "site": "https://www.icmbio.gov.br/"
+      },
+      {
+      "nome": "Instituto de Pesquisas Ecológicas (IPÊ)",
+      "descricao": "Pesquisa e conservação da biodiversidade, com foco em áreas como primatas, aves e florestas.",
+      "local": "Nacional",
+      "logo": "https://ipe.org.br/images/2022/12/logo-ipe2.jpg",
+      "site": "https://www.ipe.org.br/"
+      },
+      {
+      "nome": "SOS Mata Atlântica",
+      "descricao": "Conservação da Mata Atlântica, com foco em áreas como reflorestamento, educação ambiental e políticas públicas.",
+      "local": "Mata Atlântica",
+      "logo": "https://cbic.org.br/wp-content/uploads/2018/03/f4edit-1024x993.jpg",
+      "site": "https://www.sosma.org.br"
+      },
+      {
+      "nome": "Fundação Gol de Letra",
+      "descricao": "Promoção da educação e do esporte para crianças e jovens em situação de vulnerabilidade social, com foco em áreas como futebol, cultura e cidadania.",
+      "local": "Nacional",
+      "logo": "https://www.goldeletra.org.br/wp-content/uploads/2020/01/logo.svg",
+      "site": "https://www.goldeletra.org.br/"
+      },
+      {
+      "nome": "Fundação Banco do Brasil",
+      "descricao": "Investimento em projetos sociais, com foco em áreas como educação, cultura, saúde e desenvolvimento social.",
+      "local": "Nacional",
+      "logo": "https://www.fbb.org.br/images/Logos/logo_fundacao.png",
+      "site": "https://www.fbb.org.br/"
+      },
+      {
+      "nome": "Fundação Bradesco",
+      "descricao": "Investimento em projetos sociais, com foco em áreas como educação, saúde, cultura e meio ambiente.",
+      "local": "Nacional",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQ8fCycYOqgf7bkG_-trOBI54zXfJt-PMFvhvyeqI07g&s",
+      "site": "https://fundacao.bradesco"
+      },
+      {
+      "nome": "Instituto Votorantim",
+      "descricao": "Investimento em projetos sociais, com foco em áreas como educação, saúde, cultura e desenvolvimento social.",
+      "local": "Nacional",
+      "logo": "https://logovectorseek.com/wp-content/uploads/2020/09/instituto-votorantim-logo-vector.png",
+      "site": "https://www.institutovotorantim.org.br/"
+      },
+      {
+      "nome": "Instituto Unibanco",
+      "descricao": "Promoção da educação de qualidade para crianças e jovens, com foco em áreas como inovação, tecnologia e desenvolvimento socioemocional.",
+      "local": "Nacional",
+      "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqQ8yq3XugT2OJE1nnjC-Zwg0FVA5nZdHgSOv7Ju-6uw&s",
+      "site": "https://www.institutounibanco.org.br"
+      }
+    ]
+  }
