@@ -1,4 +1,4 @@
-fetch('https://913ab826-ffc2-48c3-8904-f61880740555-00-3nbghcc7z12rf.kirk.replit.dev/db')
+fetch('db.json')
     .then(res => res.json())
     .then(dados => {
         let ongsHtml = '';
