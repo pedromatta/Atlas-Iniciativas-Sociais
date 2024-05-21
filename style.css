@@ -1,0 +1,55 @@
+:root{
+    --fonte-titulo: "Raleway", sans-serif;
+    --btn-color: #38b45b;
+    --bg-color: #183b25;
+    --text-color: var(--bg-color);
+    --container-bg-color: white;
+} 
+
+div.container-fluid{
+    --bs-gutter-x: 0;
+    color: var(--text-color);
+}
+
+div.div-titulo, div.div-footer {
+    background-color: var(--container-bg-color);
+    padding: 4rem 3rem;
+}
+
+div.div-titulo h1{
+    font-family: var(--fonte-titulo);
+    font-weight: 800;
+}
+
+div.row{
+    --bs-gutter-x: 0;
+}
+
+div.col{
+    display: flex;
+    justify-content: center;
+}
+
+div.card{
+    width: 20rem;
+    margin: auto;
+    border: none;
+}
+
+div.card-body{
+    color: var(--text-color);
+}
+
+.card-img-top{
+    height: 200px;
+    object-fit: contain;
+    padding: 1rem;
+}
+
+.card-subtitle{
+    font-weight: 500;
+}
+
+div.card .btn{
+    background-color: var(--btn-color);    
+}
